@@ -50,5 +50,5 @@ I'm an Android Developer with 4+ years of hands-on experience designing, develop
   
   <summary><b>Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/husseinrasti"><img alt="Hussein Rasti's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=husseinrasti&custom_title=Hussein Rasti's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/husseinrasti"><img alt="Hussein Rasti's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=husseinrasti&custom_title=Hussein%20Rasti's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
