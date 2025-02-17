@@ -6,7 +6,7 @@
 <div>
 
 <!-- I'm an Android Developer currently living in Tehran, Iran. <br> -->
-I'm a Software Engineer with 8+ years of hands-on experience designing, developing, and implementing applications and solutions using a range of technologies and programming languages. <br>
+I'm a Software Engineer with 10+ years of hands-on experience designing, developing, and implementing applications and solutions using a range of technologies and programming languages. <br>
   
   ### 👨🏻&nbsp;About Me
 
